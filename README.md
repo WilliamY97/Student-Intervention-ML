@@ -8,7 +8,7 @@ Developed a model that can predict the likelihood that a given student will pass
 
 <h3> What I Learned </h3>
 
-From this unit of the Nanodegree program and project, I learned about the various classification algorithms that are used for Machine Learning. By analysis of multiple classifiers on the dataset, I was able to understand the strengths and weaknesses of various classifier algorithms. 
+From this unit of the Nanodegree program and project, I learned about the various classification algorithms that are used for Machine Learning. By analysis of multiple classifiers on the dataset, I was able to understand the strengths and weaknesses of various classifier algorithms. I reinforced my current understanding by performing model fitting, data preperation, and using the F1 score to optimize classifier parameters alongside grid search.
 
 Things I learned from this project:
 
