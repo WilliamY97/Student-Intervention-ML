@@ -1,22 +1,21 @@
 # Student-Intervention-ML
-Developed a model that can predict the likelihood that a given student will pass, thus helping diagnose whether or not an intervention is necessary. Project 1 of the Udacity Machine Learning Nanodegree Program - details included.
 
 <b>This Project Has Been Confirmed As Successful By A Udacity Reviewer.</b>
 
 <h3> What I Did </h3>
 
-In this project, I applied basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. I first used the NumPy libary to analyze the data to obtain important features and descriptive statistics about the dataset. Next, I split the data into testing and training subsets, and determine a suitable performance metric for this problem. I analyzed performance graphs for a learning algorithm with varying parameters and training set sizes. Finally, I tested this model on a new sample and compare the predicted selling price to my statistics. The result was less than one standard deviation away from the mean.
+Developed a model that can predict the likelihood that a given student will pass using classification. Thus helping diagnose whether or not an intervention is necessary. I tested three different classifiers on the data: Naive Bayes, Gradient Boosting, and Support Vector Machines. I chose the most optimal classifier through analysis of its results and then tuned it with a grid search and their F1 Scores to find the optimal parameters for prediction. The details of the project can be seen in the Python notebook provided in this repository.
 
 <h3> What I Learned </h3>
 
-From this project I was acquainted to working with datasets in Python and applying basic machine learning techniques using NumPy and Scikit-Learn. 
+From this unit of the Nanodegree program and project, I learned about the various classification algorithms that are used for Machine Learning. By analysis of multiple classifiers on the dataset, I was able to understand the strengths and weaknesses of various classifier algorithms. 
 
 Things I learned from this project:
 
-- How to use NumPy to investigate the latent features of a dataset.
-- How to analyze various learning performance plots for variance and bias.
-- How to determine the best-guess model for predictions from unseen data.
-- How to evaluate a model’s performance on unseen data using previous data.
+- The strengths and weaknesses of various Machine Learning classifiers (e.g. Naive Bayes, Decision Trees, SVM, etc.)
+- General applications of multiple Machine Learning classifiers (Spam Detection, Student Intervention, etc.)
+- Evaluating performance of various ML classifiers to find the best model for the situation (training time, testing time, F1 scores, etc.)
+- Reinforced concepts learned such as model fitting, data preperation, splitting into training & testing sets, and model tuning. 
 
 ![alt text](screenshots/graphexample.png "Description goes here")
 
