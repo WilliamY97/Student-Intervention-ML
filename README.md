@@ -17,6 +17,7 @@ Things I learned from this project:
 - Evaluating performance of various ML classifiers to find the best model for the situation (training time, testing time, F1 scores, etc.)
 - Reinforced concepts learned such as model fitting, data preperation, splitting into training & testing sets, and model tuning. 
 
+![alt text](modelcomplexities.png "Description goes here")
 
 
 
